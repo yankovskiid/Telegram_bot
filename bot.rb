@@ -1,7 +1,4 @@
-require 'open_weather'
-require 'telegram/bot'
-require 'json'
-require 'open_weather'
+
 require_relative 'commands.rb'
 require_relative 'token.rb'
 
